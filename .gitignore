@@ -2,3 +2,7 @@ postgres/data
 redis/data
 mysql/data
 activemq/data
+mongo/data
+rethinkdb/data
+nginx-manager/data
+nginx-manager/letsencrypt
